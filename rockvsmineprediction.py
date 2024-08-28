@@ -62,5 +62,3 @@ if prediction[0] == 'R' :
   print('The object is a Rock')
 else :
   print('The object is a Mine')
-
-_
